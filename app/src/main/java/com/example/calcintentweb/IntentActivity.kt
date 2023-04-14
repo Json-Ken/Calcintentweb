@@ -57,9 +57,10 @@ class IntentActivity : AppCompatActivity() {
             shareIntent.putExtra(Intent.EXTRA_TEXT,"Hi, click to download")
             startActivity(shareIntent)
         }
-        btn_call.setOnClickListener {
+
+            }
 
         }
-        }
 
-    }
+
+
